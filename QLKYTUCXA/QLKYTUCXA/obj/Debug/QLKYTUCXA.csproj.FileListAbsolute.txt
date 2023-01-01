@@ -1,0 +1,76 @@
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe.config
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.pdb
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.AssemblyReference.cache
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.SuggestedBindingRedirects.cache
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.Properties.Resources.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.GenerateResource.cache
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.CoreCompileInputs.cache
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.pdb
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmDangNhap.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmMain.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmQuanTri.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmSinhVien.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmNhanSu.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmTrangChu.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmBieuMau.resources
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.ResolveComReference.cache
+D:\CodeFolder\CShap\DoAn\Source\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmPhongKTX.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe.config
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.pdb
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.AssemblyReference.cache
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.SuggestedBindingRedirects.cache
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.ResolveComReference.cache
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmBieuMau.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmDangNhap.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmMain.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmNhanSu.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmSinhVien.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmTrangChu.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmPhongKTX.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.Properties.Resources.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmQuanTri.resources
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.GenerateResource.cache
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.CoreCompileInputs.cache
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\DoAn\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.pdb
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe.config
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.pdb
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.AssemblyReference.cache
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.SuggestedBindingRedirects.cache
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.ResolveComReference.cache
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmBieuMau.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmDangNhap.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmMain.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmNhanSu.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmSinhVien.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmTrangChu.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmPhongKTX.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.Properties.Resources.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmQuanTri.resources
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.GenerateResource.cache
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.CoreCompileInputs.cache
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.exe
+D:\CodeFolder\CShap\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.pdb
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe.config
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.exe
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\bin\Debug\QLKYTUCXA.pdb
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.AssemblyReference.cache
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.ResolveComReference.cache
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmBieuMau.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmDangNhap.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmMain.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmNhanSu.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmSinhVien.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmTrangChu.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmPhongKTX.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.Properties.Resources.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.FrmQuanTri.resources
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.GenerateResource.cache
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.csproj.CoreCompileInputs.cache
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.exe
+D:\Đồ Án LT.NET\Nhom4_To1_CD15_DTH205927_LamHuynhPhu\QLKYTUCXA\QLKYTUCXA\obj\Debug\QLKYTUCXA.pdb
